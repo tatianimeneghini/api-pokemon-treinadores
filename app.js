@@ -2,7 +2,7 @@ const express = require('express')
 const cors = require('cors')
 const bodyParser = require('body-parser')
 const app = express()
-const treinadores = require('./routes/treinadores')
+const treinadores = require('./src/routes/treinadores')
 const PORT = 3000
 
 app.use(cors())
