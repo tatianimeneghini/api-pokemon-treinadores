@@ -4,7 +4,7 @@ API construída durante o conding-dojo da Reprograma, na semana de 02 a 05 de de
 
 ## Instalação:
 ```
-git clone https://github.com/AnnaNee/reprograma-coding-dojo.git
+git clone https://github.com/AnnaNee/reprograma-coding-dojo.git(https://github.com/AnnaNee/reprograma-coding-dojo.git)
 cd reprograma-coding-dojo
 npm install
 npm start
