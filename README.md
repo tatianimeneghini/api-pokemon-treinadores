@@ -23,4 +23,4 @@ Ex. 3: pokémon de ID 2, no nível 5,5, foi treinado por 18h. 18 / 4 = 4,5. O no
 ## Autenticação e autorização:
 - O endpoint HTTP get "/login" deve ser sem autenticação.
 - Divisão de dois grupos de usuários: user (usuário comum) e admin (usuário administrador) com autorização para adicionar, remover e ler por ID.
-- Criar token para cada user.
+- Criar token para cada usuário da API.
